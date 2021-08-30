@@ -1,0 +1,10 @@
+.vscode/settings.json
+README.md
+bin/platz_da/Person.class
+bin/platz_da/PersonTest.class
+bin/platz_da/Spiel.class
+bin/platz_da/SpielTest.class
+bin/platz_da/Warteschlange.class
+bin/platz_da/Warteschlange$WarteElement.class
+bin/platz_da/WarteschlangeTest.class
+bin/platz_da/WarteschlangeTest$WarteElementTest.class
